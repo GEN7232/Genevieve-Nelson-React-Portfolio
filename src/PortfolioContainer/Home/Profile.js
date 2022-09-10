@@ -1,4 +1,5 @@
 import React from 'react';
+import './Profile.css';
 
 function Profile() {
     return (
@@ -6,6 +7,7 @@ function Profile() {
             <div className='profile-parent'>
                 <div className='profile-details'>
                     <div className='colz'>
+                        <div className='colz-icon'>
                         <a href='https://github.com/GEN7232' target='_blank'>
                             <i className='fa fa-github-square'></i>
                         </a>
@@ -15,6 +17,7 @@ function Profile() {
                         <a href='https://www.facebook.com/genevieveelizabeth/' target='_blank'>
                             <i className='fa fa-facebook-square'></i>
                         </a>
+                        </div>
                     </div>
                     <div className='profile-details-name'>
                         <span className='primary-text'>
@@ -43,6 +46,11 @@ function Profile() {
                                 Get Resume
                             </button>
                         </a>
+                    </div>
+                </div>
+                <div className='profile-picture'>
+                    <div className='profile-picture-background'>
+
                     </div>
                 </div>
             </div>
