@@ -1,11 +1,14 @@
 import './App.css';
-import Profile from './PortfolioContainer/Home/Profile';
-
+import Home from './Components/Pages/Home/Home';
+import Header from './Components/Header/Header'
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
     <div className="App">
-      <Profile />
+      <Header />
+      <Home />
+      <Footer />
     </div>
   );
 }
