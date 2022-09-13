@@ -4,6 +4,7 @@ import Home from './Components/Pages/Home/Home';
 import Header from './Components/Header/Header'
 import Footer from './Components/Footer/Footer';
 import Resume from './Components/Pages/Resume/Resume';
+import Contact from './Components/Pages/ContactMe/Contact';
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
             <Routes>
               <Route path='/' element={<Home />} />
               <Route path='resume' element={<Resume />} />
-              {/* <Route path="/contact" element={<Contact />} /> */}
+              <Route path="/contact" element={<Contact />} />
               <Route
                 path="*"
                 element={<h1 className="display-2">Wrong page!</h1>} />
