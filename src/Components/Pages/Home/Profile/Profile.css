@@ -5,6 +5,8 @@
     justify-content: center;
     height: 10%;
     min-height: fit-content;
+    /* background-image: url('../../../../assets/Home/bg.png'); */
+
 
 }
 
@@ -30,7 +32,7 @@
 }
 
 .highlighted-text{
-    color: var( --dark-orange);
+    color: rgb(130, 202, 226);
 }
 
 .profile-role-tagline {
@@ -83,6 +85,15 @@
 
 .colz .colz-icon i:hover{
     transform: scale(1.5);
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+i {
+    /* background-color: black; */
 }
 
 @media screen and (max-width: 1110px) {

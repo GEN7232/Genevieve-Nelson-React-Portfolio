@@ -1,7 +1,10 @@
 import React from 'react';
 import './Profile.css';
+import 'font-awesome/css/font-awesome.min.css';
 
 function Profile() {
+
+
     return (
         <div className='profile-container'>
             <div className='profile-parent'>
@@ -9,13 +12,13 @@ function Profile() {
                     <div className='colz'>
                         <div className='colz-icon'>
                         <a href='https://github.com/GEN7232' target='_blank'>
-                            <i className='fa fa-github-square'></i>
+                            <i className='fa-brands fa-github'></i>
                         </a>
                         <a href='https://www.linkedin.com/in/genevieve-nelson-b13b65186/' target='_blank'>
-                            <i className='fa fa-linkedin-square'></i>
+                            <i class="fa-brands fa-linkedin-in"></i>
                         </a>
                         <a href='https://www.facebook.com/genevieveelizabeth/' target='_blank'>
-                            <i className='fa fa-facebook-square'></i>
+                            <i class="fa-brands fa-facebook-f"></i>
                         </a>
                         </div>
                     </div>
@@ -38,8 +41,7 @@ function Profile() {
                     </div>
                     <div className='profile-options'>
                         <button className='btn primary-btn'>
-                            {" "}
-                            Hire Me {" "}
+                            Hire Me
                         </button>
                         <a href="Genevieve-Nelson-Resume-2022.pdf" download="Genevieve Genevieve-Nelson-Resume-2022.pdf">
                             <button className='btn highlighted-btn'>
