@@ -60,16 +60,6 @@ p {
     font-family: "Poppins Light";
 }
 
-.profile-options .highlighted-btn {
-    margin: 0 0 0 28px;
-}
-
-.profile-options .highlighted-btn:hover {
-    margin: 0 0 0 28px;
-    background-color: cornsilk;
-    color: #111
-}
-
 .profile-picture {
     display: flex;
     align-items: center;
@@ -106,10 +96,10 @@ p {
     transform: scale(1.5);
 }
 
-.btn {
-    color: white;
-    background-color: black;
+.profile-options {
+    margin-left: -45%;
 }
+
 
 @media screen and (max-width: 1110px) {
     .profile-picture{
@@ -141,10 +131,7 @@ p {
         flex-direction: column-reverse;
         margin: 40px 0 0 0;
     }
-    .profile-options {
-        display: flex;
-        justify-content: space-between;
-    }
+
     .profile-details {
         margin: 25px 0 0 0;
     }
@@ -164,5 +151,8 @@ p {
     }
     .profile-details {
         width: 90%;
+    }
+    .home-container {
+        width: 135%;
     }
 }

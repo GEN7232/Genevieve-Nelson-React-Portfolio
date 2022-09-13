@@ -8,13 +8,9 @@ import {
   MDBNavbarNav,
   MDBNavbarItem,
   MDBNavbarLink,
-  MDBBtn,
-  MDBDropdown,
-  MDBDropdownToggle,
-  MDBDropdownMenu,
-  MDBDropdownItem,
   MDBCollapse,
 } from 'mdb-react-ui-kit';
+import './Header.css';
 
 export default function App() {
   const [showBasic, setShowBasic] = useState(false);
@@ -22,7 +18,7 @@ export default function App() {
   return (
     <MDBNavbar expand='lg' light bgColor='light'>
       <MDBContainer fluid>
-        <MDBNavbarBrand href='/'>Genevieve Nelson</MDBNavbarBrand>
+        <MDBNavbarBrand className='title' href='/'>Genevieve Nelson</MDBNavbarBrand>
 
         <MDBNavbarToggler
           aria-controls='navbarSupportedContent'
