@@ -1,0 +1,16 @@
+.container {
+    background-color: #512781;
+}
+
+.res-img {
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 6%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
