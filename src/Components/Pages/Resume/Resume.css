@@ -14,3 +14,13 @@ h1 {
     padding-top: 3%;
     padding-bottom: 3%;
 }
+
+.button {
+    width: 60%;
+    background-color: #bc91ee;
+}
+
+.button:hover {
+    background-color: #390d69;
+
+}
