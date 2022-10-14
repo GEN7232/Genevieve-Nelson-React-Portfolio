@@ -10,7 +10,7 @@ function Portfolio() {
     <div className="container">
       <h1>Portfolio</h1>
       <div className="portfolio">
-        <div className="kate">
+        <div className="example">
           <br></br>
           <a href="https://www.kateortiz.com/" target="_blank">
             <h2>Kate Ortiz Songwriter/Producer Website</h2>
@@ -33,7 +33,7 @@ function Portfolio() {
             <a href="https://www.kateortiz.com/" target="_blank">Deployed Website</a>
           </p>
         </div>
-        <div className="Tracklete">
+        <div className="example">
           <br></br>
           <a href="https://traklete.herokuapp.com/" target="_blank">
             <h2>Tracklete</h2>
@@ -57,7 +57,7 @@ function Portfolio() {
             <a href="https://traklete.herokuapp.com/" target="_blank">Deployed Website</a>
           </p>
         </div>
-        <div className="IMDme">
+        <div className="example">
           <br></br>
           <a href="https://movie-review-site-bg22.herokuapp.com/" target="_blank">
             <h2>IMDMe</h2>
@@ -87,7 +87,7 @@ function Portfolio() {
 
           </p>
         </div>
-        <div className="password">
+        <div className="example">
           <br></br>
           <a href="https://gen7232.github.io/Password-Generator-homework2/" target="_blank">
             <h2>Password Generator</h2>
