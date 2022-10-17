@@ -1,4 +1,8 @@
-@media screen and (max-width: 500px) {
+.footer {
+    width: 100%;
+}
+
+/* @media screen and (max-width: 500px) {
     .footer {
         width: 100%;
     } 
@@ -6,7 +10,7 @@
 
 @media screen and (max-width: 480px) {
     .footer {
-        width: 110%;
+        width: 100%;
     } 
 }
 
@@ -34,9 +38,9 @@
     } 
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 395px) {
     .footer {
-        width: 130%;
+        width: 100%;
     } 
 }
 
@@ -46,22 +50,28 @@
     } 
 }
 
+@media screen and (max-width: 390px) {
+    .footer {
+        width: 100%;
+    } 
+}
+
 @media screen and (max-width: 375px) {
     .footer {
-        width: 135%;
+        width: 100%;
     } 
 }
 
 
 @media screen and (max-width: 360px) {
     .footer {
-        width: 140%;
+        width: 100%;
     } 
 }
 
 @media screen and (max-width: 335px) {
     .footer {
-        width: 150%;
+        width: 100%;
     } 
 }
 
@@ -106,4 +116,10 @@
     .footer {
         width: 340%;
     } 
-}
+} */
+
+/* @media screen and (max-width: 375px) {
+    .footer {
+        width: 135%;
+    }
+} */

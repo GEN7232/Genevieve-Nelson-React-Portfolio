@@ -1,5 +1,5 @@
 .form {
-    width: 500px;
+    width: 65%;
     color: 'black';
     display: flex;
     flex-direction: column;
@@ -16,5 +16,5 @@
 }
 
 .btn {
-    margin-left: 32.5%;
+    width: 50%;
 }

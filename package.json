@@ -1,5 +1,6 @@
 {
   "name": "genevieve-nelson-portfolio",
+  "homepage": "https://genevievenelson.info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

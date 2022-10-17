@@ -96,9 +96,9 @@ p {
     transform: scale(1.5);
 }
 
-.profile-options {
+/* .profile-options {
     margin-left: -45%;
-}
+} */
 
 
 @media screen and (max-width: 1110px) {
