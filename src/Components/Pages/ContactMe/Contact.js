@@ -10,13 +10,14 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_mvozjjt",
+        "service_5d4cvsa",
         "template_2o5v1wz",
         form.current,
         "Txo8nMBF9Z5sccG2Z"
       )
       .then(
         (result) => {
+          alert("Email sent!")
           console.log(result.text);
         },
         (error) => {
