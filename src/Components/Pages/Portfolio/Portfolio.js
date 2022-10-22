@@ -98,7 +98,7 @@ function Portfolio() {
           </a>
           <p>
             A javascript run password generator made as a homework assignment
-            for my coding bootcamp. The user picks how many character their
+            for my coding bootcamp. The user picks how many characters their
             password would be, and what type of characters are used for it, then
             a random password using those answers is generated.
             <br></br>
