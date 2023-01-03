@@ -41,7 +41,7 @@ function Home( ) {
                         </span>
                     </div>
                     <div className='profile-options'>
-                        <a href="Genevieve-Nelson-Resume-2022.pdf" download="Genevieve Genevieve-Nelson-Resume-2022.pdf">
+                        <a href="Genevieve-Nelson-Resume-2023.pdf" download="Genevieve-Nelson-Resume-2023.pdf">
                             <Button className='button' variant='dark'>
                                 Get Resume
                             </Button>

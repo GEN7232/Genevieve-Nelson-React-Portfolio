@@ -1,6 +1,7 @@
 import React from "react";
 import "./Footer.css";
-import { CDBFooter, CDBBox } from "cdbreact";
+import { CDBBox } from "cdbreact";
+import { MDBFooter } from "mdb-react-ui-kit";
 import github from "../../assets/Footer/github-logo.png";
 import linkedin from "../../assets/Footer/linkedin.png";
 import facebook from "../../assets/Footer/facebook.png";
@@ -8,7 +9,7 @@ import facebook from "../../assets/Footer/facebook.png";
 export const Footer = () => {
   return (
     <div className="footer">
-      <CDBFooter className="shadow">
+      <MDBFooter className="shadow">
         <CDBBox
           display="flex"
           flex="column"
@@ -42,10 +43,10 @@ export const Footer = () => {
             </CDBBox>
           </CDBBox>
           <small className="text-center mt-5">
-            &copy; Genevieve Nelson 2022
+            &copy; Genevieve Nelson 2023
           </small>
         </CDBBox>
-      </CDBFooter>
+      </MDBFooter>
     </div>
   );
 };
