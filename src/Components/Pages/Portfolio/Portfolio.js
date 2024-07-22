@@ -35,11 +35,11 @@ function Portfolio() {
         </div>
         <div className="example">
           <br></br>
-          <a href="https://traklete.herokuapp.com/" target="_blank">
+          <a href="https://github.com/GEN7232/fitness-website" target="_blank">
             <h2>Tracklete</h2>
           </a>
           <br></br>
-          <a href="https://traklete.herokuapp.com/" target="_blank">
+          <a href="https://github.com/GEN7232/fitness-website" target="_blank">
             <img
               className="port-img"
               src={tracklete}
@@ -52,18 +52,16 @@ function Portfolio() {
             exercises, track calories, and chat with other fitness fans.
             <br></br>
             <br></br>
-            <a href="https://github.com/GEN7232/fitness-website" target="_blank">Repository</a>
-            <br></br>
             <a href="https://traklete.herokuapp.com/" target="_blank">Deployed Website</a>
           </p>
         </div>
         <div className="example">
           <br></br>
-          <a href="https://movie-review-site-bg22.herokuapp.com/" target="_blank">
+          <a href="https://github.com/GEN7232/movie-review-site" target="_blank">
             <h2>IMDMe</h2>
           </a>
           <br></br>
-          <a href="https://movie-review-site-bg22.herokuapp.com/" target="_blank">
+          <a href="https://github.com/GEN7232/movie-review-site" target="_blank">
             <img
               className="port-img"
               src={IMDMe}
@@ -79,12 +77,6 @@ function Portfolio() {
             <a href="https://github.com/GEN7232/movie-review-site" target="_blank">
               Repository
             </a>
-            <br></br>
-            <a href="https://movie-review-site-bg22.herokuapp.com/" target="_blank">
-              {" "}
-              Deployed Website
-            </a>
-
           </p>
         </div>
         <div className="example">
@@ -103,7 +95,7 @@ function Portfolio() {
             a random password using those answers is generated.
             <br></br>
             <br></br>
-            <a href="https://gen7232.github.io/Password-Generator-homework2/" target="_blank">
+            <a href="https://github.com/GEN7232/Password-Generator-homework2" target="_blank">
               Repository
             </a>
             <br></br>

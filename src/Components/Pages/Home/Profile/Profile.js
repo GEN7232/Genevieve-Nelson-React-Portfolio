@@ -43,7 +43,7 @@ function Profile() {
                         <button className='btn primary-btn'>
                             Hire Me
                         </button>
-                        <a href="Genevieve-Nelson-Resume-2023.pdf" download="Genevieve Genevieve-Nelson-Resume-2023.pdf">
+                        <a href="Genevieve-Nelson-Resume-2024.pdf" download="Genevieve Genevieve-Nelson-Resume-2024.pdf">
                             <button className='btn highlighted-btn'>
                                 Get Resume
                             </button>
