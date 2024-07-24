@@ -1,8 +1,8 @@
 .container-container {
-    background-color: #5d656f;
+    background-color: #512781;
 }
 
-h2 {
+h1, h2 {
     color: white;
     text-align: center;
 }
@@ -21,8 +21,14 @@ a:hover {
 
 .example {
     border: 3px solid #222529;
+    margin-bottom: 50px;
+    padding: 25px;
 }
 
 .container {
     padding-bottom: 2%;
+}
+
+a h2 {
+    text-decoration: underline;
 }

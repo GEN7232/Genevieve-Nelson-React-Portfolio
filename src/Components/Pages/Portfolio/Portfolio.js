@@ -34,7 +34,7 @@ function Portfolio() {
             </a>
             <p>
               A professional website for musician, songwriter, and music
-              producer Kate Ortiz.
+              producer Kate Ortiz made using React.js.
               <br></br>
               <br></br>
               <a
@@ -78,15 +78,15 @@ function Portfolio() {
             <p>
               Made for my final project from my coding bootcamp through Rutgers.
               It is a fitness tracking website where the user can find and save
-              exercises, track calories, and chat with other fitness fans.
+              exercises, track calories, and chat with other fitness fans. Made using React.js.
               <br></br>
               <br></br>
               <a
-                href="https://traklete.herokuapp.com/"
+                href="https://github.com/GEN7232/fitness-website"
                 target="_blank"
                 rel="noreferrer"
               >
-                Deployed Website
+                Repository
               </a>
             </p>
           </div>
@@ -115,7 +115,7 @@ function Portfolio() {
               My second project for my coding bootcamp. With this website the
               user sees the top ten trending movies on the homepage. They can
               then log in, review movies, see other reviews, and comment on said
-              reviews.
+              reviews. Made using HTML, CSS, and Javascript.
               <br></br>
               <br></br>
               <a
@@ -152,7 +152,7 @@ function Portfolio() {
               A javascript run password generator made as a homework assignment
               for my coding bootcamp. The user picks how many characters their
               password would be, and what type of characters are used for it,
-              then a random password using those answers is generated.
+              then a random password using those answers is generated. Made using HTML, CSS, and Javascript.
               <br></br>
               <br></br>
               <a
