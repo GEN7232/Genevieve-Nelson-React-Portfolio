@@ -18,3 +18,7 @@
   --toast-success: #0CBFAE;
   --loader-color: #0CBFAE;
 }
+
+.container-container {
+  background-color: #512781;
+}
