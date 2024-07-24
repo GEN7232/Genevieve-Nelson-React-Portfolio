@@ -21,6 +21,7 @@ export const Footer = () => {
               <a
                 href="https://github.com/GEN7232"
                 className="d-flex align-items-center p-0 text-dark"
+                target="_blank" rel='noreferrer'
               >
                 <img alt="github logo" src={github} width="80px" />
               </a>
@@ -28,6 +29,7 @@ export const Footer = () => {
             <CDBBox>
               <a
                 href="https://www.linkedin.com/in/genevieve-nelson-b13b65186/"
+                target="_blank" rel='noreferrer'
                 className="d-flex align-items-center p-0 text-dark"
               >
                 <img alt="Linkedin" src={linkedin} width="50px" />
@@ -36,6 +38,7 @@ export const Footer = () => {
             <CDBBox>
               <a
                 href="https://www.facebook.com/genevieveelizabeth"
+                target="_blank" rel='noreferrer'
                 className="d-flex align-items-center p-0 text-dark"
               >
                 <img alt="Facebook" src={facebook} width="80px" />
@@ -43,7 +46,7 @@ export const Footer = () => {
             </CDBBox>
           </CDBBox>
           <small className="text-center mt-5">
-            &copy; Genevieve Nelson 2023
+            &copy; Genevieve Nelson 2024
           </small>
         </CDBBox>
       </MDBFooter>

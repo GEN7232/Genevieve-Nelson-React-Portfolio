@@ -12,11 +12,11 @@ function Portfolio() {
       <div className="portfolio">
         <div className="example">
           <br></br>
-          <a href="https://www.kateortiz.com/" target="_blank">
+          <a href="https://www.kateortiz.com/" target="_blank" rel='noreferrer'>
             <h2>Kate Ortiz Songwriter/Producer Website</h2>
           </a>
           <br></br>
-          <a href="https://www.kateortiz.com/" target="_blank">
+          <a href="https://www.kateortiz.com/" target="_blank" rel='noreferrer'>
             <img
               className="port-img"
               src={kate}
@@ -28,18 +28,18 @@ function Portfolio() {
             Kate Ortiz.
             <br></br>
             <br></br>
-            <a href="https://github.com/GEN7232/KateOrtiz" target="_blank">Repository</a>
+            <a href="https://github.com/GEN7232/KateOrtiz" target="_blank" rel='noreferrer'>Repository</a>
             <br></br>
-            <a href="https://www.kateortiz.com/" target="_blank">Deployed Website</a>
+            <a href="https://www.kateortiz.com/" target="_blank" rel='noreferrer'>Deployed Website</a>
           </p>
         </div>
         <div className="example">
           <br></br>
-          <a href="https://github.com/GEN7232/fitness-website" target="_blank">
+          <a href="https://github.com/GEN7232/fitness-website" target="_blank" rel='noreferrer'>
             <h2>Tracklete</h2>
           </a>
           <br></br>
-          <a href="https://github.com/GEN7232/fitness-website" target="_blank">
+          <a href="https://github.com/GEN7232/fitness-website" target="_blank" rel='noreferrer'>
             <img
               className="port-img"
               src={tracklete}
@@ -52,16 +52,16 @@ function Portfolio() {
             exercises, track calories, and chat with other fitness fans.
             <br></br>
             <br></br>
-            <a href="https://traklete.herokuapp.com/" target="_blank">Deployed Website</a>
+            <a href="https://traklete.herokuapp.com/" target="_blank" rel='noreferrer'>Deployed Website</a>
           </p>
         </div>
         <div className="example">
           <br></br>
-          <a href="https://github.com/GEN7232/movie-review-site" target="_blank">
+          <a href="https://github.com/GEN7232/movie-review-site" target="_blank" rel='noreferrer'>
             <h2>IMDMe</h2>
           </a>
           <br></br>
-          <a href="https://github.com/GEN7232/movie-review-site" target="_blank">
+          <a href="https://github.com/GEN7232/movie-review-site" target="_blank" rel='noreferrer'>
             <img
               className="port-img"
               src={IMDMe}
@@ -74,18 +74,18 @@ function Portfolio() {
             in, review movies, see other reviews, and comment on said reviews.
             <br></br>
             <br></br>
-            <a href="https://github.com/GEN7232/movie-review-site" target="_blank">
+            <a href="https://github.com/GEN7232/movie-review-site" target="_blank" rel='noreferrer'>
               Repository
             </a>
           </p>
         </div>
         <div className="example">
           <br></br>
-          <a href="https://gen7232.github.io/Password-Generator-homework2/" target="_blank">
+          <a href="https://gen7232.github.io/Password-Generator-homework2/" target="_blank" rel='noreferrer'>
             <h2>Password Generator</h2>
           </a>
           <br></br>
-          <a href="hhttps://gen7232.github.io/Password-Generator-homework2/" target="_blank">
+          <a href="hhttps://gen7232.github.io/Password-Generator-homework2/" target="_blank" rel='noreferrer'>
             <img className="port-img" src={password} alt="Password generator" />
           </a>
           <p>
@@ -95,11 +95,11 @@ function Portfolio() {
             a random password using those answers is generated.
             <br></br>
             <br></br>
-            <a href="https://github.com/GEN7232/Password-Generator-homework2" target="_blank">
+            <a href="https://github.com/GEN7232/Password-Generator-homework2" target="_blank" rel='noreferrer'>
               Repository
             </a>
             <br></br>
-            <a href="https://gen7232.github.io/Password-Generator-homework2/" target="_blank">
+            <a href="https://gen7232.github.io/Password-Generator-homework2/" target="_blank" rel='noreferrer'>
               Deployed Application
             </a>
           </p>

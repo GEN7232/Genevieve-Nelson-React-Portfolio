@@ -11,13 +11,13 @@ function Profile() {
                 <div className='profile-details'>
                     <div className='colz'>
                         <div className='colz-icon'>
-                        <a href='https://github.com/GEN7232' target='_blank'>
+                        <a href='https://github.com/GEN7232' target='_blank' rel='noreferrer'>
                             <i className='fa-brands fa-github'></i>
                         </a>
-                        <a href='https://www.linkedin.com/in/genevieve-nelson-b13b65186/' target='_blank'>
+                        <a href='https://www.linkedin.com/in/genevieve-nelson-b13b65186/' target='_blank' rel='noreferrer'>
                             <i class="fa-brands fa-linkedin-in"></i>
                         </a>
-                        <a href='https://www.facebook.com/genevieveelizabeth/' target='_blank'>
+                        <a href='https://www.facebook.com/genevieveelizabeth/' target='_blank' rel='noreferrer'>
                             <i class="fa-brands fa-facebook-f"></i>
                         </a>
                         </div>
