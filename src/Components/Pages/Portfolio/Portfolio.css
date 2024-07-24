@@ -1,3 +1,7 @@
+.container-container {
+    background-color: #5d656f;
+}
+
 h2 {
     color: white;
     text-align: center;
@@ -16,7 +20,7 @@ a:hover {
 }
 
 .example {
-    border: 3px solid white;
+    border: 3px solid #222529;
 }
 
 .container {

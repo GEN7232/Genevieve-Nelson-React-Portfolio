@@ -17,10 +17,10 @@ h1 {
 
 .button {
     width: 60%;
-    background-color: #bc91ee;
+    background-color: #5d656f;
 }
 
 .button:hover {
-    background-color: #390d69;
+    background-color: #222529;
 
 }
