@@ -30,7 +30,7 @@ a h2 {
 }
 
 p {
-    font-size: calc(16pt + 1vh);
+    font-size: calc(12pt + 1vh);
 }
 
 @media screen and (max-width: 800px){
@@ -39,6 +39,6 @@ p {
     }
 
     p {
-        font-size: 16pt;
+        font-size: 14pt;
     }
 }

@@ -45,7 +45,6 @@ function Home() {
             <div className="profile-details-role">
               <span className="primary-text">
                 {" "}
-                <h1></h1>
                 <span className="profile-role-tagline">
                   Making each application rock in its own way!
                 </span>

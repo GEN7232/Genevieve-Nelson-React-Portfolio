@@ -32,8 +32,9 @@ p {
 }
 
 .profile-details-name {
-    font-size: 24px;
+    font-size: 28px;
     font-family: "Poppins SemiBold";
+    margin-bottom: 20px;
 }
 
 .profile-details-role {
@@ -51,7 +52,7 @@ p {
 }
 
 .profile-role-tagline {
-    font-size: 19px;
+    font-size: 22px;
     margin: 5px 0 0 0;
     font-family: "Poppins Light";
 }
