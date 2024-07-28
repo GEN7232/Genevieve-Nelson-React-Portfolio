@@ -28,3 +28,17 @@ a:hover {
 a h2 {
     text-decoration: underline;
 }
+
+p {
+    font-size: calc(16pt + 1vh);
+}
+
+@media screen and (max-width: 800px){
+    h1 {
+        font-size: calc(16px + 5vh)
+    }
+
+    p {
+        font-size: 16pt;
+    }
+}
