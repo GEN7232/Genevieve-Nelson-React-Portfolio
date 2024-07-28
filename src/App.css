@@ -22,3 +22,7 @@
 .container-container {
   background-color: #512781;
 }
+
+nav div.container-fluid {
+  width: 95%;
+}
