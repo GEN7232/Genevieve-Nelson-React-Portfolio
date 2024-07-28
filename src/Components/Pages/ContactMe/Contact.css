@@ -1,9 +1,9 @@
 .form {
     width: 65%;
-    color: 'black';
+    color: black;
     display: flex;
     flex-direction: column;
-    margin: 10% auto;
+    margin: 5% auto 10% auto;
     padding: 25px;
     border-radius: 5px;
     background-color: #512781;
@@ -17,4 +17,27 @@
 
 .btn {
     width: 50%;
+}
+
+input {
+    height: calc(25px + 2.5vh);
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: calc(50px + 10vh);
+}
+
+input.btn-dark {
+    margin: 2% auto;
+}
+
+h1 {
+    padding-top: 5%;
+    padding-bottom: 0;
+    font-size: calc(22px + 5vh);
+}
+
+label {
+    font-size: 16pt;
 }

@@ -17,7 +17,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          alert("Email sent!")
+          alert("Email sent!");
           console.log(result.text);
         },
         (error) => {
@@ -27,19 +27,21 @@ const Contact = () => {
   };
 
   return (
-    <div className="container">
-      <br></br>
-      <h1>Contact Me</h1>
-      <form className="form" ref={form} onSubmit={sendEmail}>
-        <label>Name</label>
-        <input type="text" name="user_name" />
-        <label>Email</label>
-        <input type="email" name="user_email" />
-        <label>Message</label>
-        <textarea name="message" />
+    <div className="container-container">
+      <div className="container">
         <br></br>
-        <input className="btn btn-dark" type="submit" value="Send" />
-      </form>
+        <h1>Contact Me</h1>
+        <form className="form" ref={form} onSubmit={sendEmail}>
+          <label>Name</label>
+          <input type="text" name="user_name" />
+          <label>Email</label>
+          <input type="email" name="user_email" />
+          <label>Message</label>
+          <textarea name="message" />
+          <br></br>
+          <input className="btn btn-dark" type="submit" value="Send" />
+        </form>
+      </div>
     </div>
   );
 };
