@@ -1,5 +1,4 @@
 .form {
-    /* width: 65%; */
     color: black;
     display: flex;
     flex-direction: column;
@@ -41,7 +40,7 @@ input.btn-dark {
 h1 {
     padding-top: 5%;
     padding-bottom: 0;
-    font-size: calc(22px + 5vh);
+    font-size: calc(22px + 4.5vh);
 }
 
 label {

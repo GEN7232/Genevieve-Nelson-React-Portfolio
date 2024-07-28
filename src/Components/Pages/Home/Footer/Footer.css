@@ -17,6 +17,10 @@
     height: 130px;
 }
 
+.text-center {
+    color: white;
+}
+
 @media only screen and (max-width: 1110px) {
     .footer-parent {
         display: flex;

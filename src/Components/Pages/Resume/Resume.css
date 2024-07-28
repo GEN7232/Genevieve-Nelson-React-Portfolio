@@ -24,3 +24,7 @@ h1 {
     background-color: #222529;
 
 }
+
+a h1 {
+    font-size: calc(14pt + 3vh);
+}
