@@ -10,7 +10,7 @@
 p {
     color: white;
     text-align: center;
-    font-size: 24px;
+    font-size: 22px;
     width: 80%;
     margin-left: 10%;
     padding-top: 5%;
@@ -22,11 +22,7 @@ p {
     align-items: center;
     text-align: center;
     justify-content: center;
-    height: 10%;
     min-height: fit-content;
-    /* background-image: url('../../../../assets/Home/bg.png'); */
-
-
 }
 
 .profile-parent {
@@ -96,10 +92,6 @@ p {
     transform: scale(1.5);
 }
 
-/* .profile-options {
-    margin-left: -45%;
-} */
-
 
 @media screen and (max-width: 1110px) {
     .profile-picture{
@@ -152,7 +144,7 @@ p {
     .profile-details {
         width: 90%;
     }
-    .home-container {
-        width: 135%;
+    p {
+        font-size: 20px;
     }
 }
