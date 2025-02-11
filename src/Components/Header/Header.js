@@ -42,8 +42,6 @@ export default function App() {
             <MDBNavbarItem>
               <MDBNavbarLink href='/resume'>Resume</MDBNavbarLink>
             </MDBNavbarItem>
-            
-
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBContainer>

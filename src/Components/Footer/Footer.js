@@ -13,9 +13,8 @@ export const Footer = () => {
           display="flex"
           flex="column"
           className="mx-auto py-5"
-          style={{ width: "90%" }}
         >
-          <CDBBox display="flex" justifyContent="between" className="flex-wrap">
+          <CDBBox id="socials-container">
             <CDBBox className="socials-footer">
               <a
                 href="https://github.com/GEN7232"
