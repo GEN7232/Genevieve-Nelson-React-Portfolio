@@ -1,5 +1,4 @@
 import React from "react";
-// import Profile from './Profile/Profile';
 import Footer from "./Footer/Footer";
 import "./Home.css";
 import Button from "react-bootstrap/Button";
@@ -20,18 +19,11 @@ function Home() {
                   <i className="fa-brands fa-github"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/genevieve-nelson-b13b65186/"
+                  href="https://www.linkedin.com/in/genevieve-nelson96/"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <i class="fa-brands fa-linkedin-in"></i>
-                </a>
-                <a
-                  href="https://www.facebook.com/genevieveelizabeth/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <i class="fa-brands fa-facebook-f"></i>
                 </a>
               </div>
             </div>
@@ -52,8 +44,8 @@ function Home() {
             </div>
             <div className="profile-options">
               <a
-                href="Genevieve-Nelson-Resume-2024.pdf"
-                download="Genevieve-Nelson-Resume-2024.pdf"
+                href="Genevieve-Nelson-Resume-2025.pdf"
+                download="Genevieve-Nelson-Resume-2025.pdf"
               >
                 <Button className="button" variant="dark">
                   Get Resume
@@ -66,20 +58,9 @@ function Home() {
           </div>
         </div>
       </div>
-      {/* <Profile /> */}
       <Footer />
       <p>
-        Hello, I'm Genevieve Nelson, and I am a fullstack web developer. I have
-        experience programming utilizing HTML5, CSS3, JavaScript, jQuery,
-        Express.js, React.js, Node.js, Vue.js, Python, Visual Basic, .NET, C#,
-        ASP, progressive web apps, agile methodology, computer science, database
-        theory, MongoDB, MySQL, Git, and more. I originally went to school to be
-        an audio engineer, and worked in that field for several years before
-        attending a coding bootcamp hosted by Rutgers University in 2022. Since
-        then I have been working in technology as a web and software developer.
-        I like to use the skills I learned in the studio to make myself a better
-        developer. That extends to troubshooting, balancing creativity with
-        technical skills, client relations, and more.
+      Hello, I'm Genevieve Nelson, and I am a fullstack web and software developer. I have experience programming utilizing HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, Vue.js, Python, Visual Basic, .NET, ASP, MongoDB, SQL, Git, and more. I originally went to school to be an audio engineer, and worked in that field for several years before attending a coding bootcamp hosted by Rutgers University in 2022. Since then I have been working in technology as a developer. I like to use the skills I learned in the studio to make myself a better developer. That extends to troubshooting, balancing creativity with technical skills, client relations, and more.
       </p>
     </div>
   );

@@ -4,7 +4,6 @@ import { CDBBox } from "cdbreact";
 import { MDBFooter } from "mdb-react-ui-kit";
 import github from "../../assets/Footer/github-logo.png";
 import linkedin from "../../assets/Footer/linkedin.png";
-import facebook from "../../assets/Footer/facebook.png";
 
 export const Footer = () => {
   return (
@@ -17,7 +16,7 @@ export const Footer = () => {
           style={{ width: "90%" }}
         >
           <CDBBox display="flex" justifyContent="between" className="flex-wrap">
-            <CDBBox>
+            <CDBBox className="socials-footer">
               <a
                 href="https://github.com/GEN7232"
                 className="d-flex align-items-center p-0 text-dark"
@@ -26,22 +25,13 @@ export const Footer = () => {
                 <img alt="github logo" src={github} width="80px" />
               </a>
             </CDBBox>
-            <CDBBox>
+            <CDBBox className="socials-footer">
               <a
                 href="https://www.linkedin.com/in/genevieve-nelson-b13b65186/"
                 target="_blank" rel='noreferrer'
                 className="d-flex align-items-center p-0 text-dark"
               >
                 <img alt="Linkedin" src={linkedin} width="50px" />
-              </a>
-            </CDBBox>
-            <CDBBox>
-              <a
-                href="https://www.facebook.com/genevieveelizabeth"
-                target="_blank" rel='noreferrer'
-                className="d-flex align-items-center p-0 text-dark"
-              >
-                <img alt="Facebook" src={facebook} width="80px" />
               </a>
             </CDBBox>
           </CDBBox>
